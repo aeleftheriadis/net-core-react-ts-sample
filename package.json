@@ -10,7 +10,7 @@
     "aspnet-webpack": "^1.0.29",
     "aspnet-webpack-react": "^2.0.1",
     "awesome-typescript-loader": "^3.2.1",
-    "bootstrap": "4.0.0-alpha.6",
+    "bootstrap": "3.4.1",
     "css-loader": "0.28.4",
     "event-source-polyfill": "0.0.9",
     "extract-text-webpack-plugin": "2.1.2",
